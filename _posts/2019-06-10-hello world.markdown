@@ -3,4 +3,4 @@ published: false
 ---
 ## Hello World
 
-this is a note 
+this is a note
