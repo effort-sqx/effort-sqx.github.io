@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## something of my mind
 分手之后，好像两个人都越来越好，生活依然有新的方向及乐趣。。。
@@ -9,5 +9,3 @@ published: false
 	学会好好独处，好好利用时间去充实自己，让自己越来越好吧，再见不负遇见吧
     better me！
 ![18050.jpg]({{site.baseurl}}/_posts/18050.jpg)
-
-
