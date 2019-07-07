@@ -8,4 +8,4 @@ published: false
 
 	学会好好独处，好好利用时间去充实自己，让自己越来越好吧，再见不负遇见吧
     better me！
-![18050.jpg]({{site.baseurl}}/_posts/18050.jpg)
+![pic](https://www.privacypic.com/images/2019/07/07/18050151a7c81ff928ea3.jpg).
