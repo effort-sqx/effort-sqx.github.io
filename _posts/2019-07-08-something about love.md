@@ -2,7 +2,7 @@
 published: true
 ---
 ## 2019-2-13
-<audio id="audio" controls="" preload="none">
+<audio id="audio" controls autoplay>
 <source id="mp3" src="http://t.cn/AiOWpTGA?mp3">
 </audio>
 
