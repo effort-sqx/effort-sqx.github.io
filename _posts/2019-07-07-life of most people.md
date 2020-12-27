@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 ##  life of most people
 	希望自己活成想要的样子，追寻自己的想法，突破现实的羁绊。
@@ -10,4 +10,3 @@ published: true
 ![491164bc3e2c4f122.jpg](https://www.privacypic.com/images/2019/07/07/491164bc3e2c4f122.jpg)
 ![52ae6c2c0e7a337ae.jpg](https://www.privacypic.com/images/2019/07/07/52ae6c2c0e7a337ae.jpg)
 ![624263c6aa780f1bb.jpg](https://www.privacypic.com/images/2019/07/07/624263c6aa780f1bb.jpg)
-
